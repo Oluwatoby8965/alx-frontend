@@ -1,5 +1,5 @@
 # 0x01. Developer tools
-## HTMLCSSFront-end
+## HTMLCSS Front-end
 
     By: David Dias, Senior Software Engineer at HomeX
     Weight: 1
@@ -14,11 +14,17 @@ Resources
 Read or watch:
 
 https://intranet.alxswe.com/rltoken/a00xWFVG2r6G3lphxOFexA - (Chrome DevTools | Tools for Web Developers | Google Developers)
+
 https://intranet.alxswe.com/rltoken/NMYYMG44e0dZ2eb5uR4iUQ - (Introduction | Down and Dirty with Chrome Developer Tools)
+
 https://intranet.alxswe.com/rltoken/If7a66qWg4qxhKuNPRoJCw - (Firefox Developer Tools | MDN)
+
 https://intranet.alxswe.com/rltoken/rdGj_NA-X--rwekzt9bffQ - (Dev Tips - Developer Tips by Umar Hansa)
+
 https://intranet.alxswe.com/rltoken/rU_42ND20tHzosN2V1xP1w - (Get Started With Viewing And Changing CSS | Tools for Web Developers)
+
 https://intranet.alxswe.com/rltoken/UiqZ7pmI5L7BMr3ZaG4Bow - (Keeping it simple with the JavaScript console - LogRocket Blog)
+
 https://intranet.alxswe.com/rltoken/I_IHgn0hsaB1kee6RgU1SQ - (Inspect Network Activity - Chrome DevTools 101)
 
 Requirements
